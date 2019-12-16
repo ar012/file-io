@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71590c-6dc9-4f84-903c-d0e9a2b0dba6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test-dir/DynamicFileCopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-dir/DynamicFileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-dir/FNFEHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-dir/bbc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +32,8 @@
   <component name="ProjectId" id="1Qlie28ksY3LPlGQC7DSWm4PW4A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
