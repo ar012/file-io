@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427cacc3-aa78-413d-a484-cf6c24989ee8" name="Default Changelist" comment="" />
+    <list default="true" id="427cacc3-aa78-413d-a484-cf6c24989ee8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreateDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileReadWithScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileWriteWithInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/CreateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/MakeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/MakeException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandling/MyRuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemSolving/ExceptionProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-io/com/selftics/io/CreateFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-io/com/selftics/io/CreateFile.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,11 +30,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1V4TbgrOL56zQ8w2we1p1i0tkSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exceptionHandling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exceptionHandling" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codes\file-io\java-io\src\exceptionHandling" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CreateFile">
-    <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selftics.io.CreateFile" />
+  <component name="RunManager" selected="Application.MyRuntimeException">
+    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.CustomException" />
       <module name="java-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selftics.io.*" />
+          <option name="PATTERN" value="exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -42,12 +79,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StandardIOExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selftics.io.StandardIOExample" />
+    <configuration name="FileReadWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReadWithScanner" />
+      <module name="java-io" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.MakeException" />
       <module name="java-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selftics.io.*" />
+          <option name="PATTERN" value="exceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.MakeException2" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionHandling.MyRuntimeException" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,8 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateFile" />
-        <item itemvalue="Application.StandardIOExample" />
+        <item itemvalue="Application.MyRuntimeException" />
+        <item itemvalue="Application.CustomException" />
+        <item itemvalue="Application.MakeException2" />
+        <item itemvalue="Application.MakeException" />
+        <item itemvalue="Application.FileReadWithScanner" />
       </list>
     </recent_temporary>
   </component>
@@ -74,5 +147,18 @@
       <updated>1576511440866</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
